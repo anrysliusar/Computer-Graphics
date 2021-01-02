@@ -1,6 +1,7 @@
 # Computer-Graphics
 Lab works from the course of computer graphics
-* MCW - module control work
+* MCW - module control work (operations with a rectangle)
+* MCW - module control work (build a objects using OpenGL)
 * Lab 1 - draw triangle
 * Lab 2 - draw hexagon
 * Lab 3 - draw Parallelepiped (primitive)
